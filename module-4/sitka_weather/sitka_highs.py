@@ -1,3 +1,7 @@
+#Author: Kypton Lantz
+#Date: January 17, 2025
+#Assignment 4.2: High/Low Temperatures
+
 import csv
 from datetime import datetime
 import sys
